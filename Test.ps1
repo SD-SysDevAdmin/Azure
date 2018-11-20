@@ -1,2 +1,2 @@
 Import-Module Dbatools
-Get-dbadatabase -SqlInstance -Database Works
+Get-dbadatabase -SqlInstance testtwdb -Database Works

@@ -1,6 +1,0 @@
-{
-    "username": "[SD-SysDevAdmin]",
-    "password": "[0f3bcd4ec3991c800fa3caf694d218289a528758]",
-    "strictTls": true,
-    "pooling": 10
-}
